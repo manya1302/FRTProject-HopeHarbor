@@ -59,4 +59,4 @@ jobs:
           app-name: 'HopeHarborapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4FCA7601A974BC9ABB0E2D3238C19A9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3883A62350A94520881B83CC76160470 }}
